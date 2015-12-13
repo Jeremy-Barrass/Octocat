@@ -1,1 +1,3 @@
-Explain what the 'upstream' remote is usually used for, in your own words.
+The "upstream" remote is the remote repository from whch you have cloned or forked your local repository.  It is considered behind or "upstream" from your branch, relative to the changes you make within the same.
+However, if changes to the master or upstream branch are made after you have forked, you may pull these to your branch to ensure that yours stays current with the master.
+So the upstream remote is the remote repository used to keep your branch up-to-date with changes in the master branch.
