@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words.
+A branch if an alternative development stream from a project.  The main branch is commonly called the master branch, other branches may be named anything, but will usually take something relevant to the project or development they are managing.
+Branches result from forking a repository in Github, or using the "git branch" or "git checkout [-b]" commands.
